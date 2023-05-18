@@ -13,7 +13,7 @@
         <loc>/iniciarsesion.html</loc>
     </url>
     <url>
-        <loc>/pricing.html</loc>
+        <loc>/portal.html</loc>
     </url>
     <url>
         <loc>/programas.html</loc>
@@ -23,8 +23,5 @@
     </url>
     <url>
         <loc>/solicituddeacceso.html</loc>
-    </url>
-    <url>
-        <loc>/testimonials.html</loc>
     </url>
 </urlset>
